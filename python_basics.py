@@ -34,3 +34,11 @@ languages = ["Python", "JavaScript", "SQL"]
 
 print("Languages:", languages)
 print("First language:", languages[0])
+
+# Python function example
+
+def greet(name):
+    return f"Hello, {name}!"
+
+message = greet("Abdulahi")
+print(message)
