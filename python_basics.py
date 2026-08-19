@@ -27,3 +27,10 @@ print("Name:", name)
 print("Age:", age)
 print("Height:", height)
 print("Student:", is_student)
+
+# Python list example
+
+languages = ["Python", "JavaScript", "SQL"]
+
+print("Languages:", languages)
+print("First language:", languages[0])
